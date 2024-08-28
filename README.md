@@ -48,17 +48,14 @@ Install required packages listed in `requirements.txt`
 
 ### Interface
 ![Chat Analyzer Interface](if.png)
-)
 *This is the user interface of the Social Media Chat Analyzer, where users can upload their chat data.*
 
 ### Word Cloud
 ![Word Cloud](wc.png)
-)
 *The word cloud visualization highlights the most frequently used words in the chat.*
 
 ### Analysis Results
 ![Analysis Results](pc.png)
-)
 *Here are some sample analysis results, showcasing user engagement metrics and interaction patterns.*
 
 
