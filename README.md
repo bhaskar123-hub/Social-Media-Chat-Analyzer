@@ -47,7 +47,7 @@ Install required packages listed in `requirements.txt`
    git clone https://github.com/username/Social-Media-Chat-Analyzer.git
 
 ### Interface
-![Chat Analyzer Interface](![image](https://github.com/user-attachments/assets/a8a44daf-81ea-48ad-8236-4a85ba465efb)
+![Chat Analyzer Interface](if.png)
 )
 *This is the user interface of the Social Media Chat Analyzer, where users can upload their chat data.*
 
