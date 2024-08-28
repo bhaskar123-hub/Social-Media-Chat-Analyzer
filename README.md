@@ -53,12 +53,12 @@ Install required packages listed in `requirements.txt`
 *This is the user interface of the Social Media Chat Analyzer, where users can upload their chat data.*
 
 ### Word Cloud
-![Word Cloud](![image](https://github.com/user-attachments/assets/bd1705e1-a510-461d-8d28-b36fde2ad2ee)
+![Word Cloud](wc.png)
 )
 *The word cloud visualization highlights the most frequently used words in the chat.*
 
 ### Analysis Results
-![Analysis Results](![image](https://github.com/user-attachments/assets/541bb753-89db-4c22-8457-0a89ac55471b)
+![Analysis Results](pc.png)
 )
 *Here are some sample analysis results, showcasing user engagement metrics and interaction patterns.*
 
